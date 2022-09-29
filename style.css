@@ -58,7 +58,7 @@ li {
     height: 60vh;
   }
 .key-number, .key-op, .key-equal, .key-point{
-    background-color: rgb(112, 172, 151);
+    background-color: rgb(119, 233, 193);
     border-radius: 1vh;
     height: 7vh;
     margin: 5px;
